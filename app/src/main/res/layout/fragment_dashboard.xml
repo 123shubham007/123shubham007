@@ -5,7 +5,6 @@
     android:layout_height="match_parent"
     tools:context=".fragment.DashboardFragment">
 
-    <!-- TODO: Update blank fragment layout -->
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerDashboard"

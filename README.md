@@ -1,3 +1,2 @@
-# Shubham
-#Project Name - Book_Hub
+# Book_Hub
 In this project you can browser different books and knowdifferent specs of the book such as rating, price, author name and about the book, you can also add the specific book to favourite...
